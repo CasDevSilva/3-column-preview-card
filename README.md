@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/CasDevSilva/3-column-preview-card)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://peppy-valkyrie-6f93a4.netlify.app/)
 
 ## My process
 
